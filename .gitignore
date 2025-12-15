@@ -1,0 +1,6 @@
+# Neovim generated files
+.netrwhist
+swap/
+undo/
+backup/
+plugin/packer_compiled.lua
